@@ -1,4 +1,4 @@
-# UBports GH Actions
+# UBports GH Action
 This repository enables images to be built from GitHub Actions.
 
 
